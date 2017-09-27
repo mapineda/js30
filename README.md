@@ -10,7 +10,7 @@ description: \
 ### Day 2:
 tile: Clock \
 description: Clock using CSS + JS \
-[CodePen](https://codepen.io/mapineda13/full/PJpjZW/);
+[CodePen](https://codepen.io/mapineda13/full/PJpjZW/)
 
 ### Day 3:
 title: \
