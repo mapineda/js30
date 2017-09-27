@@ -1,9 +1,9 @@
-#JS30 - Javascript 30 Day Challenge
+# JS30 - Javascript 30 Day Challenge
 
 ## See it Live!
 
 ### Day 1:
-title:
+title: \
 description:
 [CodePen]();
 
