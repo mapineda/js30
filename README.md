@@ -5,7 +5,7 @@
 ### Day 1:
 title: \
 description: \
-[CodePen]();
+[CodePen]()
 
 ### Day 2:
 tile: Clock \
@@ -15,19 +15,19 @@ description: Clock using CSS + JS \
 ### Day 3:
 title: \
 description: \
-[CodePen]();
+[CodePen]()
 
 ### Day 4:
 title: \
 description: \
-[CodePen]();
+[CodePen]()
 
 ### Day 5:
 title: \
 description: \
-[CodePen]();
+[CodePen]()
 
 ### Day 6:
 title: \
 description: \
-[CodePen]();
+[CodePen]()
