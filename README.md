@@ -15,7 +15,7 @@ description: Clock using CSS + JS \
 ### Day 3:
 title: \
 description: \
-[CodePen]()
+[CodePen](https://codepen.io/mapineda13/pen/jGBwve/)
 
 ### Day 4:
 title: \
