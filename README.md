@@ -13,14 +13,15 @@ description: Clock using CSS + JS \
 [CodePen](https://codepen.io/mapineda13/full/PJpjZW/)
 
 ### Day 3:
-title: \
+title: CSS Variables \
 description: \
 [CodePen](https://codepen.io/mapineda13/pen/jGBwve/)
 
 ### Day 4:
-title: \
-description: \
-[CodePen]()
+title: Map(), Reduce(), Sort(), Filter() \
+description:  The gateway drugs to functional programming \
+Getting Started: run \
+``` node index.js```
 
 ### Day 5:
 title: \
