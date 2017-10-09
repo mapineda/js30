@@ -32,3 +32,29 @@ description: \
 title: \
 description: \
 [CodePen]()
+
+### Day 7:
+title: \
+description: \
+[CodePen]()
+
+### Day 8:
+title: \
+description: \
+[CodePen]()
+
+### Day 9:
+title: \
+description: \
+[CodePen]()
+
+### Day 10:
+title: \
+description: \
+[CodePen]()
+
+
+### Day 11:
+title: \
+description: \
+[CodePen](https://codepen.io/mapineda13/pen/aLYVog)
